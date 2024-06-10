@@ -1,7 +1,8 @@
 # Games-Data-Analysis-
 Using SQL and Power BI we have analyse game data. We see how trends in game genre, Platforms and sales have changed over the period of time. 
 
-![image](https://github.com/Nayan-github11/Games-Data-Analysis-/assets/122141219/dd413cdd-5143-4ecc-a24d-11feffcbaaf3)
+![image](https://github.com/Nayan-github11/Games-Data-Analysis-/assets/122141219/03fea713-1a54-448e-9304-63dc41db0d7a)
+
 
 Excited to share my new MySQL + Power Bi project on Video Games Sales Analysis.
 
